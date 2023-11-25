@@ -11,3 +11,14 @@ A simple password generator web application that allows users to generate secure
 4.Copy to Clipboard: Easily copy the generated password to the clipboard with the click of a button.
 <br/>
 5.Password Strength Indicator: Visual representation of the password strength.
+
+# Usage
+1.Open index.html in a web browser.
+<br/>
+2.Adjust the password length using the slider.
+<br/>
+3.Select the character options you want in your password.
+<br/>
+4.Click the "Generate Password" button.
+<br/>
+5.Copy the generated password using the "Copy" button.
